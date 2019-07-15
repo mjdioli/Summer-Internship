@@ -46,13 +46,47 @@ train
 ```{r}
 #Linear model
 colnam = colnames(train)
-modelA = lm(Completion.Time ~ Priority + Urgency + as.factor(Solution.category) + Project.related + Impact + as.factor(Company) + as.factor(Close.code) + as.factor(Incident.state) + as.factor(Escalation) + as.factor(Subcategory) + as.factor(Service.Area) + as.factor(Assignment.group), data = train)
+modelA = lm(Completion.Time ~ Priority + Urgency + as.factor(Solution.category) + Project.related + as.factor(Company) + as.factor(Close.code) + as.factor(Incident.state) + as.factor(Escalation) + as.factor(Subcategory) + as.factor(Service.Area) + as.factor(Assignment.group), data = train)
 
+# Plotting residuals residuls vs fitted
 ggplot(modelA, aes(.fitted, .stdresid)) + geom_point(pch = 21) +
   geom_hline(yintercept = 0, linetype = "dashed") +
   geom_smooth(se = FALSE, col = "red", size = 0.5, method = "loess") +
   labs(x = "Fitted values", y = "Standardized residuals",
        title = "Fitted values vs. Standardized residuals",
        subtitle = deparse(modelA$call))
+
+# qq-plot of residuals
+ggplot(modelA, aes(sample = .stdresid)) +
+  stat_qq(pch = 19) + 
+  geom_abline(intercept = 0, slope = 1, linetype = "dotted") +
+  labs(x = "Theoretical quantiles", y = "Standardized residuals", 
+       title = "Normal Q-Q", subtitle = deparse(modelA$call))
+
+summary(modelA)
+
+#Perhaps the logarithm will work well
+modelB = lm(log(Completion.Time) ~ Priority + Urgency + as.factor(Solution.category) + Project.related + as.factor(Company) + as.factor(Close.code) + as.factor(Escalation) + as.factor(Subcategory) + as.factor(Service.Area) + as.factor(Assignment.group), data = train)
+
+# Plotting residuals residuls vs fitted
+ggplot(modelB, aes(.fitted, .stdresid)) + geom_point(pch = 21) +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  geom_smooth(se = FALSE, col = "red", size = 0.5, method = "loess") +
+  labs(x = "Fitted values", y = "Standardized residuals",
+       title = "Fitted values vs. Standardized residuals",
+       subtitle = deparse(modelB$call))
+
+# qq-plot of residuals
+ggplot(modelB, aes(sample = .stdresid)) +
+  stat_qq(pch = 19) + 
+  geom_abline(intercept = 0, slope = 1, linetype = "dotted") +
+  labs(x = "Theoretical quantiles", y = "Standardized residuals", 
+       title = "Normal Q-Q", subtitle = deparse(modelB$call))
+
+summary(modelB)
+
+'?'(predict)
+
+predicted_time = predict(modelB, newdata = test)
 ```
 
