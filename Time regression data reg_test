@@ -1,0 +1,382 @@
+,Priority,Urgency,State,Solution category,Project related,Incident ID,Impact,Company,Close code,Incident state,Escalation,Category,Subcategory,Service Area,Assignment group,Made SLA,Hypercare related,Completion Time
+1263,3,2,Closed Complete,Other ticket,0,INC786347,2,101,Solved (Permanently),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,215.5661111111111
+1385,5,3,Closed Complete,Change Request,0,INC781940,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1936.358611111111
+10,4,2,Pending,Explanation,0,INC835592,3,4602,Solved (Permanently),Resolved,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.8680555555555556
+332,4,3,Closed Complete,Explanation,0,INC818506,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,85.065
+322,5,3,Closed Complete,Explanation,0,INC818860,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,57.37138888888889
+936,4,3,Closed Complete,Explanation,0,INC797745,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,5.902222222222222
+1053,4,3,Closed Complete,Data update,0,INC793542,2,4005,Solved (Work Around),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-FIN,1,0,1015.8941666666667
+463,4,2,Closed Complete,Explanation,0,INC814485,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.7475
+761,5,3,Closed Complete,Explanation,0,INC804049,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,3.4741666666666666
+641,3,2,Closed Complete,Change Request,0,INC807799,2,2805,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,601.7088888888889
+584,5,3,Closed Complete,Explanation,0,INC809935,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,356.2402777777778
+211,5,3,Closed Complete,Explanation,0,INC823663,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,160.64194444444445
+1115,4,2,Closed Complete,Explanation,0,INC791565,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,15.957222222222223
+1514,5,3,Closed Complete,Explanation,0,INC776511,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.3705555555555556
+1209,5,3,Closed Complete,Explanation,0,INC788418,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,159.01166666666666
+547,3,2,Closed Complete,Change Request,0,INC811517,2,2805,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,835.2766666666666
+496,5,3,Closed Complete,Explanation,0,INC813420,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,9.5725
+559,5,3,Closed Complete,Explanation,0,INC811141,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,18.601944444444445
+38,4,2,Closed Complete,Explanation,0,INC833852,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.1922222222222223
+64,5,3,Closed Complete,Explanation,0,INC832716,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.5702777777777777
+771,5,3,Closed Complete,Explanation,0,INC803822,3,1401,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.4161111111111111
+1086,4,2,Closed Complete,Explanation,0,INC792525,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.425
+876,5,3,Closed Complete,Explanation,0,INC800233,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,4.1466666666666665
+1250,3,2,Closed Complete,Change Request,0,INC786551,2,1007,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Execution,ENT-SAP-SVC-MAN,1,0,286.90944444444443
+1363,3,2,Closed Complete,Unsolved,0,INC782849,2,105,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,1231.8638888888888
+429,5,3,Closed Complete,Explanation,0,INC815728,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,71.51527777777778
+493,5,3,Closed Complete,Explanation,0,INC813459,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.7180555555555554
+720,5,3,Closed Complete,Change Request,0,INC805380,3,101,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1985.8583333333333
+350,5,3,Closed Complete,Explanation,0,INC817880,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,7.591111111111111
+387,4,2,Closed Complete,Explanation,0,INC816786,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.9691666666666666
+77,5,3,Closed Complete,Explanation,0,INC831169,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,23.962777777777777
+508,5,3,Closed Complete,Explanation,0,INC812803,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,18.138055555555557
+753,4,2,Closed Complete,Explanation,0,INC804265,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.9855555555555555
+366,4,2,Closed Complete,Explanation,0,INC817194,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.4547222222222222
+1160,4,2,Closed Complete,Explanation,0,INC790403,3,101,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,13.588611111111112
+521,5,3,Closed Complete,Unsolved,0,INC812344,3,106,Not Solved (Not Reproducible),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,359.9425
+899,4,2,Closed Complete,Explanation,0,INC799328,3,101,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.8586111111111112
+1092,4,2,Closed Complete,Explanation,0,INC792465,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.5747222222222224
+1184,4,3,Closed Complete,Change Request,0,INC789819,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,49.20777777777778
+1037,5,3,Closed Complete,Change Request,0,INC794065,3,101,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,116.4625
+647,4,2,Closed Complete,Explanation,0,INC807582,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.4588888888888889
+240,4,2,Closed Complete,Explanation,0,INC822265,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,207.9475
+1193,5,3,Closed Complete,Explanation,0,INC789389,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,7.899444444444445
+63,5,3,Closed Complete,Explanation,0,INC832720,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.3175
+339,5,3,Closed Complete,Explanation,0,INC818328,3,1403,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,20.926111111111112
+858,3,2,Closed Complete,Workaround,0,INC800741,2,2811,Solved (Work Around),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1004.735
+372,4,3,Closed Complete,Explanation,0,INC817051,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,12.5575
+419,5,3,Closed Complete,Explanation,0,INC815826,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,50.341388888888886
+524,5,3,Closed Complete,Explanation,0,INC812320,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.6313888888888889
+1181,3,2,Closed Complete,Change Request,0,INC790043,2,101,Solved (Permanently),Closed,Normal,Application,Design issue (business),SAP SVC - Contact Center,ENT-SAP-SVC-EXE,1,1,98.19055555555556
+546,3,1,Closed Complete,Workaround,0,INC811554,3,215,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,61.093333333333334
+611,5,3,Closed Complete,Explanation,0,INC808342,3,101,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Management,ENT-SAP-SVC,1,0,285.37361111111113
+1135,4,2,Closed Complete,Software reset,0,INC791040,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,217.50972222222222
+1454,5,3,Closed Complete,Explanation,0,INC779075,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.065
+416,4,2,Closed Complete,Explanation,0,INC815852,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,11.946111111111112
+407,4,2,Closed Complete,Explanation,0,INC816099,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,144.95277777777778
+634,5,3,Closed Complete,Explanation,0,INC807915,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.7936111111111112
+1384,4,2,Closed Complete,Explanation,0,INC781977,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,308.0252777777778
+906,5,3,Closed Complete,Explanation,0,INC798985,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.6063888888888889
+536,3,2,Closed Complete,Explanation,0,INC812073,2,203,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,1074.7108333333333
+157,5,3,Closed Complete,Explanation,0,INC826018,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.9566666666666667
+127,5,3,Closed Complete,Explanation,0,INC827407,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.0177777777777777
+963,4,2,Closed Complete,Explanation,0,INC796583,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,4.6125
+1004,5,3,Closed Complete,Explanation,0,INC794946,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,75.28555555555556
+1085,5,3,Closed Complete,Explanation,0,INC792529,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.3505555555555557
+969,5,3,Closed Complete,Explanation,0,INC796480,3,106,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.7655555555555555
+1326,4,2,Closed Complete,Change Request,0,INC784162,3,1005,Solved (Permanently),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1787.6908333333333
+794,5,3,Closed Complete,Change Request,0,INC802783,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,831.3427777777778
+566,4,3,Closed Complete,Explanation,0,INC810947,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,7.645
+1050,5,3,Closed Complete,Workaround,0,INC793594,3,4602,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,14.6725
+698,3,2,Closed Complete,Change Request,0,INC806032,2,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1680.3138888888889
+1059,5,3,Closed Complete,Change Request,0,INC793443,3,2805,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,410.3852777777778
+1172,5,3,Closed Complete,Explanation,0,INC790159,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.7569444444444446
+1173,5,3,Closed Complete,Explanation,0,INC790145,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.062777777777778
+971,4,2,Closed Complete,Explanation,0,INC796403,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.543611111111111
+531,5,3,Closed Complete,Explanation,0,INC812226,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,0.5227777777777778
+1274,5,3,Closed Complete,Explanation,0,INC785960,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,22.456944444444446
+465,5,3,Closed Complete,Explanation,0,INC814389,3,1401,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,5.212777777777778
+224,5,3,Closed Complete,Explanation,0,INC823161,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,6.7363888888888885
+341,5,3,Closed Complete,Explanation,0,INC818267,3,105,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Contact Center,ENT-SAP-SVC,1,0,364.8566666666667
+1281,5,3,Closed Complete,Explanation,0,INC785695,3,1012,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.31277777777777777
+699,5,3,Closed Complete,Explanation,0,INC806004,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.0008333333333335
+281,3,2,Closed Complete,Unsolved,0,INC820692,2,1005,Not Solved (No reply from caller),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,675.9269444444444
+35,5,3,Closed Complete,Explanation,0,INC833919,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.4925
+510,4,2,Closed Complete,Explanation,0,INC812768,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.2694444444444444
+718,4,2,Closed Complete,Explanation,0,INC805457,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,46.935
+1270,5,3,Closed Complete,Change Request,0,INC786043,3,214,Solved (Permanently),Closed,Normal,Application,Design issue (business),SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,1648.1316666666667
+673,3,1,Closed Complete,Explanation,0,INC807018,3,215,Solved (Permanently),Closed,Normal,Application,Design issue (business),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,434.60583333333335
+782,5,3,Closed Complete,Explanation,0,INC803255,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,13.560555555555556
+1516,4,2,Closed Complete,Explanation,0,INC776392,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.9016666666666666
+388,4,2,Closed Complete,Explanation,0,INC816777,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.2441666666666666
+20,5,3,Closed Complete,Unsolved,0,INC834622,3,4005,Not Solved (Cancelled by caller),Closed,Normal,General Service,Service request,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,4.184722222222222
+568,5,3,Closed Complete,Explanation,0,INC810809,3,301,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,144.01916666666668
+650,5,3,Closed Complete,Explanation,0,INC807536,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,49.954166666666666
+1435,4,2,Closed Complete,Explanation,0,INC779712,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.7472222222222222
+736,5,3,Closed Complete,Explanation,0,INC804754,3,4602,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.7552777777777777
+100,4,3,Closed Complete,Explanation,0,INC829915,2,215,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,9.606666666666667
+1394,5,3,Closed Complete,Explanation,0,INC781464,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.20527777777777778
+1144,5,3,Closed Complete,Explanation,0,INC790846,3,214,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,669.5811111111111
+402,5,3,Closed Complete,Explanation,0,INC816162,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,25.67
+1211,5,3,Closed Complete,Explanation,0,INC788402,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.3505555555555557
+1146,3,2,Closed Complete,Change Request,1,INC790806,2,2811,Solved (Permanently),Closed,Normal,Application,Design issue (technical),SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,1,574.3602777777778
+93,5,3,Closed Complete,Workaround,0,INC830178,3,4602,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.4580555555555557
+192,4,2,Closed Complete,Explanation,0,INC824713,3,1005,Solved (Work Around),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,233.63083333333333
+485,5,3,Closed Complete,Explanation,0,INC813602,3,1005,Solved (Work Around),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC,1,0,522.0061111111111
+1112,3,2,Closed Complete,Workaround,0,INC791977,2,105,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,27.91611111111111
+1129,5,3,Closed Complete,Explanation,0,INC791190,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,5.775277777777778
+1358,3,1,Closed Complete,Workaround,0,INC782919,3,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,298.7344444444444
+1473,5,3,Closed Complete,Explanation,0,INC778301,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,10.528055555555556
+454,4,2,Closed Complete,Explanation,0,INC814787,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.5308333333333333
+595,4,3,Closed Complete,Explanation,0,INC809019,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,44.992222222222225
+343,5,3,Closed Complete,Workaround,0,INC818125,3,1005,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,479.01166666666666
+1260,5,3,Closed Complete,Explanation,0,INC786393,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,1.0825
+1377,4,2,Closed Complete,Explanation,0,INC782257,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.8961111111111113
+1183,3,2,Closed Complete,Change Request,0,INC789899,2,1005,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,683.2894444444445
+845,4,2,Closed Complete,Explanation,0,INC801322,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.3194444444444444
+1547,2,1,Closed Complete,Other ticket,0,INC774891,2,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,7.343333333333334
+960,4,2,Closed Complete,Explanation,0,INC796628,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.4180555555555556
+176,5,3,Closed Complete,Explanation,0,INC825327,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,16.701944444444443
+1217,5,3,Closed Complete,Explanation,0,INC788225,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,1.3888888888888888
+866,5,3,Closed Complete,Explanation,0,INC800426,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,15.070277777777777
+168,5,3,Closed Complete,Explanation,0,INC825724,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,3.4569444444444444
+715,3,2,Closed Complete,Data update,0,INC805513,2,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,72.80555555555556
+16,5,3,Pending,Explanation,0,INC834720,3,4602,,Waiting for,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,3.568888888888889
+958,5,3,Closed Complete,Explanation,0,INC796668,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.4111111111111112
+1290,3,1,Closed Complete,Workaround,0,INC785354,3,215,Solved (Work Around),Closed,Normal,Application,Software Issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,507.8569444444444
+205,5,3,Pending,Explanation,0,INC824280,3,106,Solved (Permanently),Resolved,Normal,General Service,Enhancement request,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,721.4275
+719,4,2,Closed Complete,Explanation,0,INC805383,3,101,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.1369444444444445
+244,5,3,Closed Complete,Explanation,0,INC822231,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,70.90861111111111
+941,4,2,Closed Complete,Explanation,0,INC797507,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.926388888888889
+461,4,2,Closed Complete,Explanation,0,INC814536,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.21055555555555555
+1136,5,3,Closed Complete,Explanation,0,INC791010,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,13.939166666666667
+275,4,2,Closed Complete,Explanation,0,INC821009,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.7755555555555556
+1169,4,2,Closed Complete,Explanation,0,INC790223,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.22166666666666668
+902,5,3,Closed Complete,Explanation,0,INC799129,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,18.036666666666665
+721,5,3,Closed Complete,Explanation,0,INC805375,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,3.44
+137,4,2,Closed Complete,Data update,0,INC827010,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,69.00666666666666
+550,4,2,Closed Complete,Explanation,0,INC811366,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.5633333333333334
+1500,5,3,Closed Complete,Explanation,0,INC777132,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,1.1552777777777778
+5,3,1,Pending,Explanation,0,INC836255,3,4603,Solved (Permanently),Resolved,Normal,General Service,Service request,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,19.408055555555556
+327,5,3,Closed Complete,Explanation,0,INC818682,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,314.47777777777776
+622,4,3,Pending,Data update,0,INC808199,2,2805,Solved (Work Around),Resolved,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1967.6580555555556
+614,5,3,Closed Complete,Explanation,0,INC808341,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,1.3183333333333334
+996,5,3,Closed Complete,Explanation,0,INC795297,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,25.296944444444446
+62,5,3,Closed Complete,Explanation,0,INC832742,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.1447222222222222
+795,5,3,Closed Complete,Explanation,0,INC802764,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,19.84138888888889
+209,4,3,Closed Complete,Explanation,0,INC824155,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC,1,0,364.62916666666666
+1379,5,3,Closed Complete,Change Request,0,INC782251,3,4602,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,508.04027777777776
+321,4,3,Closed Complete,Explanation,0,INC818886,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,53.738055555555555
+456,5,3,Closed Complete,Unsolved,0,INC814780,3,501,Not Solved (Not Reproducible),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,671.7461111111111
+1455,3,2,Closed Complete,Explanation,0,INC779050,2,4602,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1671.9263888888888
+833,5,3,Closed Complete,Explanation,0,INC801708,3,804,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,143.59833333333333
+995,5,3,Closed Complete,Data update,0,INC795311,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,702.1069444444445
+472,5,3,Closed Complete,Explanation,0,INC814216,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.3441666666666667
+1318,4,2,Closed Complete,Explanation,0,INC784533,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.6911111111111112
+1005,5,3,Closed Complete,Other ticket,0,INC794945,3,105,Not Solved (Other ticket),Closed,Normal,General Service,Enhancement request,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,233.26277777777779
+441,5,3,Closed Complete,Explanation,0,INC815224,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.6522222222222223
+1482,4,2,Closed Complete,Explanation,0,INC777946,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.3538888888888887
+199,4,2,Closed Complete,Explanation,0,INC824438,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.38222222222222224
+1367,4,2,Closed Complete,Explanation,0,INC782770,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.1952777777777777
+1310,5,3,Closed Complete,Explanation,0,INC784877,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,1.146388888888889
+1187,3,1,Closed Complete,Workaround,0,INC789642,3,101,Solved (Work Around),Closed,Normal,Infrastructure,Server,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.9708333333333333
+1017,5,3,Closed Complete,Explanation,0,INC794526,3,1012,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.039722222222222
+664,5,3,Closed Complete,Explanation,0,INC807239,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.326111111111111
+222,5,3,Closed Complete,Explanation,0,INC823245,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.4025
+913,4,2,Closed Complete,Explanation,0,INC798861,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.1125
+300,3,2,Closed Complete,Data update,0,INC819907,2,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,143.3386111111111
+651,5,3,Closed Complete,Explanation,0,INC807519,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.6488888888888888
+1162,4,2,Closed Complete,Unsolved,0,INC790396,3,1005,Not Solved (Cancelled by caller),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,2.4569444444444444
+1110,4,2,Closed Complete,Explanation,0,INC792059,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.49333333333333335
+653,5,3,Closed Complete,Explanation,0,INC807504,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,507.7988888888889
+1204,4,2,Closed Complete,Explanation,0,INC788619,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.5280555555555555
+6,5,3,Pending,Explanation,0,INC836200,3,4602,Solved (Permanently),Resolved,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.238888888888889
+1411,4,2,Closed Complete,Explanation,0,INC780790,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.8933333333333335
+686,5,3,Closed Complete,Explanation,0,INC806262,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,2.8008333333333333
+24,5,3,Closed Complete,Explanation,0,INC834363,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.6102777777777777
+808,5,3,Closed Complete,Explanation,0,INC802331,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,59.45777777777778
+1039,5,3,Closed Complete,Explanation,0,INC793976,3,4005,Solved (Work Around),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,510.7936111111111
+1285,5,3,Closed Complete,Explanation,0,INC785486,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,21.002222222222223
+1319,5,3,Closed Complete,Explanation,0,INC784530,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.4733333333333334
+1010,5,3,Closed Complete,Explanation,0,INC794801,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.37722222222222224
+570,5,3,Closed Complete,Explanation,0,INC810746,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,41.84777777777778
+726,4,2,Closed Complete,Explanation,0,INC805255,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.5880555555555556
+1164,3,2,Closed Complete,Change Request,0,INC790357,2,101,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,1679.138888888889
+318,4,2,Closed Complete,Change Request,0,INC819330,3,2805,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Contact Center,ENT-SAP-SCM,1,0,504.56055555555554
+1497,4,2,Closed Complete,Explanation,0,INC777309,3,1401,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,74.86833333333334
+993,3,2,Closed Complete,Data update,0,INC795359,2,2805,Solved (Permanently),Closed,Normal,General Service,Service request,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,16.174166666666668
+601,5,3,Closed Complete,Explanation,0,INC808686,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.8986111111111111
+1371,4,3,Closed Complete,Explanation,0,INC782540,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,46.12305555555555
+853,5,3,Closed Complete,Explanation,0,INC800955,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,13.98611111111111
+471,5,3,Closed Complete,Explanation,0,INC814237,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.23583333333333334
+289,3,2,Closed Complete,Change Request,0,INC820414,2,2805,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,455.03444444444443
+301,5,3,Closed Complete,Explanation,0,INC819816,3,201,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,922.1702777777778
+610,4,2,Closed Complete,Explanation,0,INC808438,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,22.018333333333334
+31,5,3,Closed Complete,Explanation,0,INC834003,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.2541666666666667
+1392,4,3,Closed Complete,Explanation,0,INC781758,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,1.498888888888889
+722,4,2,Closed Complete,Explanation,0,INC805330,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.8386111111111111
+607,5,3,Closed Complete,Explanation,0,INC808533,3,1012,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,10.221666666666666
+741,4,2,Closed Complete,Software reset,0,INC804511,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,230.66055555555556
+1038,4,2,Closed Complete,Explanation,0,INC793980,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.4438888888888889
+674,5,3,Closed Complete,Explanation,0,INC807011,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.49805555555555553
+645,5,3,Closed Complete,Explanation,0,INC807633,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.8569444444444443
+158,5,3,Closed Complete,Explanation,0,INC826009,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.8555555555555555
+274,4,2,Closed Complete,Explanation,0,INC821026,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.1541666666666666
+855,4,2,Closed Complete,Explanation,0,INC800929,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,14.196944444444444
+612,3,2,Closed Complete,Explanation,0,INC808413,2,101,Solved (Permanently),Closed,Normal,Application,Design issue (business),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,840.3575
+972,4,2,Closed Complete,Explanation,0,INC796245,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,7.866666666666666
+1125,5,3,Closed Complete,Explanation,0,INC791375,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.35888888888888887
+1401,4,3,Closed Complete,Explanation,0,INC781312,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.9852777777777778
+511,5,3,Closed Complete,Explanation,0,INC812766,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,19.39527777777778
+745,5,3,Closed Complete,Explanation,0,INC804362,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.138888888888889
+2,5,3,Pending,Explanation,0,INC836620,3,4602,Solved (Permanently),Resolved,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.4363888888888889
+1197,4,2,Closed Complete,Explanation,0,INC789060,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.48
+96,5,3,Closed Complete,Explanation,0,INC830084,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.31722222222222224
+1020,3,2,Closed Complete,Change Request,0,INC794489,2,1005,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,1,1099.0697222222223
+120,4,2,Closed Complete,Explanation,0,INC827949,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,20.81888888888889
+254,5,3,Closed Complete,Explanation,0,INC821898,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.9538888888888889
+164,5,3,Pending,Explanation,0,INC825778,3,101,Solved (Permanently),Resolved,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,592.6744444444445
+1192,4,3,Closed Complete,Explanation,0,INC789426,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,76.64222222222222
+633,5,3,Closed Complete,Explanation,0,INC807927,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,22.62638888888889
+1442,5,3,Closed Complete,Explanation,0,INC779483,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,14.065
+231,5,3,Closed Complete,Explanation,0,INC822677,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.3869444444444444
+439,5,3,Closed Complete,Explanation,0,INC815252,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.176111111111111
+1049,5,3,Closed Complete,Explanation,0,INC793606,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,38.51722222222222
+188,3,2,Closed Complete,Workaround,0,INC824948,2,101,Solved (Work Around),Closed,Normal,Hardware,Basis issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,75.2775
+1376,5,3,Closed Complete,Explanation,0,INC782274,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.577777777777778
+1168,4,2,Closed Complete,Explanation,0,INC790230,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,0.31333333333333335
+91,4,2,Closed Complete,Explanation,0,INC830244,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,15.127777777777778
+828,4,2,Closed Complete,Explanation,0,INC801773,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.9702777777777778
+54,4,2,Closed Complete,Explanation,0,INC832852,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.9716666666666667
+1443,5,3,Closed Complete,Explanation,0,INC779466,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,14.665277777777778
+21,5,3,Closed Complete,Software reset,0,INC834611,3,2805,Solved (Permanently),Closed,Normal,General Service,Service request,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.6311111111111111
+688,5,3,Closed Complete,Explanation,0,INC806183,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,21.185555555555556
+108,3,2,Closed Complete,Data update,0,INC829285,2,2805,Solved (Permanently),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Management,ENT-SAP-SVC,1,0,45.84916666666667
+1395,4,2,Closed Complete,Explanation,0,INC781454,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,23.950277777777778
+195,5,3,Closed Complete,Explanation,0,INC824527,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.8844444444444446
+122,5,3,Closed Complete,Explanation,0,INC827637,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,13.150555555555556
+1540,5,3,Closed Complete,Explanation,0,INC775076,3,1012,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.6691666666666667
+500,5,3,Closed Complete,Explanation,0,INC813231,3,1012,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,231.12416666666667
+1036,5,3,Closed Complete,Change Request,0,INC794069,3,1005,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,120.92166666666667
+334,5,3,Closed Complete,Explanation,0,INC818443,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,15.276111111111112
+830,5,3,Closed Complete,Explanation,0,INC801741,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.8427777777777777
+1,5,3,Pending,Parameter change,0,INC836646,3,501,Solved (Permanently),Resolved,Normal,General Service,Service request,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.6163888888888889
+749,4,2,Closed Complete,Explanation,0,INC804306,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.27361111111111114
+1488,5,3,Closed Complete,Explanation,0,INC777543,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,66.05666666666667
+931,4,2,Closed Complete,Explanation,0,INC798164,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.8325
+1293,5,3,Closed Complete,Change Request,0,INC785315,3,215,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1846.3555555555556
+1060,5,3,Closed Complete,Explanation,0,INC793429,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,0.9872222222222222
+390,5,3,Closed Complete,Unsolved,0,INC816566,3,201,Not Solved (No reply from caller),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,684.2494444444444
+954,4,3,Closed Complete,Change Request,0,INC796866,2,2805,Solved (Permanently),Closed,Normal,Application,Design issue (business),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,170.37666666666667
+248,5,3,Closed Complete,Explanation,0,INC822150,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.216388888888889
+864,5,3,Closed Complete,Explanation,0,INC800443,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,383.9502777777778
+178,5,3,Closed Complete,Explanation,0,INC825322,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,16.91138888888889
+379,4,2,Closed Complete,Explanation,0,INC816853,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.23
+613,4,2,Closed Complete,Explanation,0,INC808363,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.13972222222222222
+705,5,3,Closed Complete,Explanation,0,INC805681,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.1252777777777778
+1350,4,3,Closed Complete,Explanation,0,INC783219,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.7963888888888889
+1431,5,3,Closed Complete,Explanation,0,INC779809,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.16333333333333333
+1545,5,3,Closed Complete,Explanation,0,INC774997,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,147.09
+475,5,3,Closed Complete,Explanation,0,INC814078,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,322.6933333333333
+1157,5,3,Closed Complete,Explanation,0,INC790435,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,13.120555555555555
+252,5,3,Closed Complete,Explanation,0,INC821968,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,14.199444444444444
+997,5,3,Closed Complete,Explanation,0,INC795289,3,105,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,363.15416666666664
+235,3,2,Pending,Change Request,0,INC822390,2,1005,Not Solved (Other ticket),Resolved,Normal,General Service,Enhancement request,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,839.2441666666666
+65,5,3,Pending,Data update,0,INC832677,3,106,Solved (Permanently),Resolved,Normal,Application,Software Issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,194.17555555555555
+778,5,3,Closed Complete,Explanation,0,INC803491,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.6680555555555556
+1471,5,3,Closed Complete,Explanation,0,INC778476,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.6036111111111113
+1336,3,2,Closed Complete,Other ticket,0,INC783885,2,101,Solved (Permanently),Closed,Normal,Application,Operating System,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,120.90305555555555
+467,5,3,Closed Complete,Explanation,0,INC814368,3,1401,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,8.671666666666667
+469,4,2,Closed Complete,Explanation,0,INC814258,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,145.1275
+245,5,3,Closed Complete,Explanation,0,INC822187,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,26.02027777777778
+629,5,3,Closed Complete,Explanation,0,INC807976,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.3222222222222222
+239,5,3,Closed Complete,Explanation,0,INC822274,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,20.799722222222222
+1186,5,3,Closed Complete,Explanation,0,INC789652,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,3.07
+777,5,3,Closed Complete,Explanation,0,INC803506,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.4044444444444446
+1430,5,3,Closed Complete,Change Request,0,INC779818,3,4602,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,735.5086111111111
+1291,3,1,Closed Complete,Workaround,0,INC785347,3,501,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,25.46
+1248,5,3,Closed Complete,Explanation,0,INC786622,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,12.412222222222223
+1152,5,3,Closed Complete,Workaround,0,INC790551,3,214,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,543.5969444444445
+1222,5,3,Closed Complete,Explanation,0,INC787893,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,3.746111111111111
+678,5,3,Closed Complete,Explanation,0,INC806709,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.30833333333333335
+1483,5,3,Closed Complete,Explanation,0,INC777632,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.158611111111111
+619,5,3,Closed Complete,Explanation,0,INC808229,3,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,102.45611111111111
+1067,4,2,Closed Complete,Explanation,0,INC793174,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,13.714444444444444
+1426,4,3,Closed Complete,Explanation,0,INC780058,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,46.255833333333335
+1323,3,1,Closed Complete,Workaround,0,INC784319,3,2805,Solved (Work Around),Closed,Normal,Application,Coding issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,25.889166666666668
+767,5,3,Closed Complete,Explanation,0,INC803978,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.7336111111111111
+957,5,3,Closed Complete,Explanation,0,INC796712,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.8086111111111111
+816,5,3,Closed Complete,Workaround,0,INC802235,3,804,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,572.4316666666666
+326,5,3,Closed Complete,Explanation,0,INC818705,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,3.3208333333333333
+873,5,3,Closed Complete,Explanation,0,INC800286,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.667222222222222
+615,5,3,Closed Complete,Explanation,0,INC808337,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.49472222222222223
+1478,5,3,Closed Complete,Explanation,0,INC778056,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.7277777777777777
+298,4,2,Closed Complete,Explanation,0,INC820027,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.3358333333333333
+666,3,2,Closed Complete,Explanation,0,INC807193,2,4602,Solved (Work Around),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,344.6897222222222
+202,5,3,Closed Complete,Explanation,0,INC824393,3,4005,Solved (Work Around),Closed,Normal,Application,Design issue (business),SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,355.09194444444444
+378,5,3,Closed Complete,Explanation,0,INC816887,3,1010,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,2.468888888888889
+1446,5,3,Closed Complete,Explanation,0,INC779359,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.20777777777777778
+1417,5,3,Closed Complete,Explanation,0,INC780403,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,17.43611111111111
+1109,5,3,Closed Complete,Explanation,0,INC792092,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.31083333333333335
+1321,5,3,Closed Complete,Explanation,0,INC784486,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,141.31222222222223
+1445,5,3,Closed Complete,Explanation,0,INC779394,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,90.15222222222222
+932,5,3,Closed Complete,Explanation,0,INC798127,3,1014,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,45.57666666666667
+1156,3,2,Closed Complete,Change Request,1,INC790447,2,1005,Solved (Permanently),Closed,Normal,Application,Design issue (technical),SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,1,171.95805555555555
+737,5,3,Closed Complete,Explanation,0,INC804725,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.5380555555555555
+896,5,3,Closed Complete,Explanation,0,INC799375,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.14027777777777778
+757,3,2,Closed Complete,Data update,0,INC804180,2,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,71.35027777777778
+1381,5,3,Closed Complete,Change Request,0,INC782204,3,105,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,263.3613888888889
+1206,5,3,Closed Complete,Explanation,0,INC788529,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,9.313055555555556
+333,5,3,Closed Complete,Explanation,0,INC818452,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,14.888055555555555
+1472,4,3,Closed Complete,Explanation,0,INC778366,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,7.296388888888889
+1232,3,3,Closed Complete,Workaround,0,INC787354,1,101,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,900.445
+56,4,3,Closed Complete,Explanation,0,INC832846,2,701,Solved (Work Around),Closed,Normal,Application,System Administration,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,46.656666666666666
+1289,5,3,Closed Complete,Explanation,0,INC785391,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.4658333333333333
+703,4,2,Closed Complete,Explanation,0,INC805725,3,101,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,4.818611111111111
+241,5,3,Closed Complete,Data update,0,INC822262,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,24.669722222222223
+519,5,3,Closed Complete,Explanation,0,INC812445,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,13.22
+435,5,3,Closed Complete,Explanation,0,INC815594,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,9.311388888888889
+585,5,3,Closed Complete,Explanation,0,INC809813,3,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,570.0247222222222
+426,5,3,Closed Complete,Explanation,0,INC815769,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,15.705555555555556
+464,4,2,Closed Complete,Explanation,0,INC814411,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.2027777777777777
+357,5,3,Closed Complete,Explanation,0,INC817482,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,1.3377777777777777
+843,5,3,Closed Complete,Explanation,0,INC801349,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.7911111111111111
+156,5,3,Closed Complete,Explanation,0,INC826021,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,1.0952777777777778
+681,4,2,Closed Complete,Explanation,0,INC806603,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.5002777777777778
+1341,5,3,Closed Complete,Unsolved,0,INC783597,3,101,Not Solved (Not Reproducible),Closed,Normal,Application,Technical issue,SAP SVC - Contact Center,ENT-SAP-SVC,1,0,136.51583333333335
+46,4,2,Closed Complete,Explanation,0,INC833352,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.5030555555555556
+897,5,3,Closed Complete,Change Request,0,INC799353,3,501,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,934.3816666666667
+1126,4,2,Closed Complete,Explanation,0,INC791381,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,313.59777777777776
+494,5,3,Closed Complete,Explanation,0,INC813433,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,2.512777777777778
+346,5,3,Closed Complete,Change Request,0,INC818049,3,4602,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,169.35888888888888
+1090,4,2,Closed Complete,Explanation,0,INC792496,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.1502777777777778
+1524,5,3,Closed Complete,Explanation,0,INC776010,3,4602,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.5716666666666667
+580,5,3,Closed Complete,Explanation,0,INC810175,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.5327777777777778
+744,4,2,Closed Complete,Explanation,0,INC804377,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.7655555555555558
+481,5,3,Closed Complete,Explanation,0,INC813823,3,4005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.7188888888888889
+707,4,2,Closed Complete,Explanation,0,INC805644,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.5997222222222223
+385,5,3,Closed Complete,Explanation,0,INC816796,3,106,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,79.01361111111112
+1236,5,3,Closed Complete,Explanation,0,INC787127,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.6066666666666667
+68,2,1,Closed Complete,Change Request,0,INC832057,2,208,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,1,65.33083333333333
+262,3,2,Closed Complete,Workaround,0,INC821370,2,101,Solved (Work Around),Closed,Normal,Application,Coding issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,96.04638888888888
+676,4,2,Closed Complete,Explanation,0,INC806765,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,1.1088888888888888
+354,5,3,Closed Complete,Explanation,0,INC817661,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.2802777777777778
+1158,4,2,Closed Complete,Explanation,0,INC790434,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,13.162222222222223
+1448,4,2,Closed Complete,Explanation,0,INC779316,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,2.408888888888889
+1551,5,3,Closed Complete,Explanation,0,INC774383,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.7475
+66,5,3,Closed Complete,Explanation,0,INC832610,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.1369444444444445
+1247,4,2,Closed Complete,Permissions,0,INC786643,3,1007,Solved (Permanently),Closed,Normal,Security,Permission,SAP SVC - Service Execution,ENT-SAP-SCM-DOM,1,0,0.07166666666666667
+447,5,3,Closed Complete,Explanation,0,INC814960,3,1012,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,57.52722222222222
+577,4,2,Closed Complete,Explanation,0,INC810261,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.8383333333333334
+811,3,2,Closed Complete,Change Request,0,INC802295,2,1005,Solved (Work Around),Closed,Normal,General Service,Enhancement request,SAP SVC - Contact Center,ENT-SAP-SVC-COC,1,0,1287.8397222222222
+758,5,3,Closed Complete,Explanation,0,INC804119,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.25194444444444447
+680,4,2,Closed Complete,Explanation,0,INC806606,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.2088888888888889
+984,4,2,Closed Complete,Explanation,0,INC795927,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.6372222222222222
+979,5,3,Closed Complete,Explanation,0,INC796030,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,502.79
+600,5,3,Closed Complete,Explanation,0,INC808709,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.2513888888888889
+33,4,2,Closed Complete,Explanation,0,INC833991,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.31555555555555553
+291,5,3,Closed Complete,Explanation,0,INC820233,3,801,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-EXE,1,0,160.63972222222222
+1048,5,3,Closed Complete,Change Request,0,INC793619,3,201,Solved (Permanently),Closed,Normal,Application,Configuration issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,1310.1483333333333
+1256,3,1,Closed Complete,Workaround,0,INC786430,3,105,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,25.094166666666666
+128,4,2,Closed Complete,Explanation,0,INC827354,3,2805,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,146.51666666666668
+1412,4,3,Closed Complete,Explanation,0,INC780753,2,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,0.9025
+881,5,3,Closed Complete,Explanation,0,INC799943,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC,1,0,166.6888888888889
+1072,5,3,Closed Complete,Explanation,0,INC792981,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.3333333333333333
+1201,3,3,Closed Complete,Change Request,0,INC788748,1,4602,Solved (Permanently),Closed,Normal,Application,Design issue (technical),SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1457.4388888888889
+139,3,2,Closed Complete,Explanation,0,INC826826,2,101,Solved (Permanently),Closed,Normal,General Service,Service request,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,71.57583333333334
+217,5,3,Closed Complete,Unsolved,0,INC823424,3,4005,Not Solved (No reply from caller),Closed,Normal,General Service,Service request,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,320.65527777777777
+912,4,2,Closed Complete,Explanation,0,INC798866,3,101,Solved (Work Around),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.0880555555555556
+1304,5,3,Closed Complete,Explanation,0,INC784995,3,1005,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,0.2563888888888889
+1253,5,3,Closed Complete,Explanation,0,INC786491,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,2.4941666666666666
+877,5,3,Closed Complete,Explanation,0,INC800120,3,215,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,6.048611111111111
+755,5,3,Closed Complete,Explanation,0,INC804238,3,101,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,1.1102777777777777
+898,5,3,Closed Complete,Explanation,0,INC799351,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.9794444444444445
+1105,5,3,Closed Complete,Explanation,0,INC792117,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,13.06861111111111
+1151,3,2,Closed Complete,Change Request,1,INC790582,2,201,Solved (Permanently),Closed,Normal,Application,Coding issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,1,372.5730555555556
+1307,5,3,Closed Complete,Explanation,0,INC784964,3,201,Not Solved (Other ticket),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Management,ENT-SAP-SVC,1,0,404.24444444444447
+502,5,3,Closed Complete,Explanation,0,INC813193,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,47.69638888888889
+829,5,3,Closed Complete,Explanation,0,INC801743,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Management,ENT-SAP-SVC-MAN,1,0,0.6305555555555555
+1499,5,3,Closed Complete,Change Request,0,INC777133,3,201,Solved (Permanently),Closed,Normal,General Service,Enhancement request,SAP SVC - Service Management,ENT-SAP-SVC,1,0,956.7536111111111
+557,4,2,Closed Complete,Explanation,0,INC811205,3,4602,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC-EXE,1,0,13.103055555555555
+1316,5,3,Closed Complete,Explanation,0,INC784549,3,201,Solved (Permanently),Closed,Normal,Application,Technical issue,SAP SVC - Service Execution,ENT-SAP-SVC,1,0,0.7322222222222222

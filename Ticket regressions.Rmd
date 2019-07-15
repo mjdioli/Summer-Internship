@@ -1,0 +1,58 @@
+---
+title: "Ticket analysis"
+author: "Marius Dioli"
+date: "July 15, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(error=TRUE)
+knitr::opts_chunk$set(warning=FALSE)
+knitr::opts_chunk$set(message=FALSE)
+knitr::opts_chunk$set(results="hold")
+```
+
+Importing relevant libraries:
+```{r,eval=TRUE,echo=TRUE}
+library("knitr") #probably already installed
+library("rmarkdown") #probably already installed
+library("bestglm")# for subset selection with categorical variables
+library("glmnet")# for lasso
+library("tree") #tree
+library("randomForest") #for random forest
+library("ElemStatLearn")
+#library("BiocManager")
+library("pheatmap")
+
+library("ggplot2") # for plotting
+library("GGally") # for ggpairs
+library("caret") #for confusion matrices
+library("pROC") #for ROC curves
+library("e1071") # for support vector machines
+library("nnet") # for feed forward neural networks
+library("tidyr") # for manipulating data
+library("dplyr") # for manipulating data
+library("MASS") # for different statistical methods
+```
+
+```{r}
+#Import data
+train =read.csv("/home/marius/Documents/Github projects/Summer-Internship/Time regression data reg_train")
+test = read.csv("/home/marius/Documents/Github projects/Summer-Internship/Time regression data reg_test")
+train
+```
+
+```{r}
+#Linear model
+colnam = colnames(train)
+modelA = lm(Completion.Time ~ Priority + Urgency + as.factor(Solution.category) + Project.related + Impact + as.factor(Company) + as.factor(Close.code) + as.factor(Incident.state) + as.factor(Escalation) + as.factor(Subcategory) + as.factor(Service.Area) + as.factor(Assignment.group), data = train)
+
+ggplot(modelA, aes(.fitted, .stdresid)) + geom_point(pch = 21) +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  geom_smooth(se = FALSE, col = "red", size = 0.5, method = "loess") +
+  labs(x = "Fitted values", y = "Standardized residuals",
+       title = "Fitted values vs. Standardized residuals",
+       subtitle = deparse(modelA$call))
+```
+
