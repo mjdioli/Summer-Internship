@@ -40,6 +40,8 @@ library("MASS") # for different statistical methods
 #Import data
 train =read.csv("/home/marius/Documents/Github projects/Summer-Internship/Time regression data reg_train")
 test = read.csv("/home/marius/Documents/Github projects/Summer-Internship/Time regression data reg_test")
+drops <- "X"
+train = train[ , !(names(train) %in% drops)]
 train
 ```
 
@@ -63,8 +65,6 @@ ggplot(modelA, aes(sample = .stdresid)) +
   labs(x = "Theoretical quantiles", y = "Standardized residuals", 
        title = "Normal Q-Q", subtitle = deparse(modelA$call))
 
-summary(modelA)
-
 #Perhaps the logarithm will work well
 modelB = lm(log(Completion.Time) ~ Priority + Urgency + as.factor(Solution.category) + Project.related + as.factor(Company) + as.factor(Close.code) + as.factor(Escalation) + as.factor(Subcategory) + as.factor(Service.Area) + as.factor(Assignment.group), data = train)
 
@@ -85,8 +85,16 @@ ggplot(modelB, aes(sample = .stdresid)) +
 
 summary(modelB)
 
-'?'(predict)
 
-predicted_time = predict(modelB, newdata = test)
+```
+
+
+```{r}
+hc.average=hclust(dist(scale(train)), method="average")
+plot(hc.average, main="Average Linkage", xlab="", sub="", cex=.6)
+```
+
+```{r}
+ggpairs(ctrain, ggplot2::aes(color=as.factor(train)), lower = list(continuous = wrap("points", alpha = 0.3, size=0.2)))
 ```
 
